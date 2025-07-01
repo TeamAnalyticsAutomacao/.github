@@ -46,12 +46,6 @@ Para inspiração, consulte o README de algum colega.
 
 ---
 
-## 📞 Contato
-
-Para dúvidas, entre em contato com a equipe de engenharia:  
-📧 automacao@empresa.com
-
----
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80" />
