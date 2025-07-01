@@ -45,6 +45,12 @@ Para inspiração, consulte o README de algum colega.
 - [Guia de boas práticas de Git](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
 
 ---
+## 🎓 Recursos de Apoio
+
+- [Instalação do Git](https://git-scm.com/downloads/win)
+- [GitHub website](https://github.com/)
+- [Lista de Comandos](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+
 
 
 <p align="center">
