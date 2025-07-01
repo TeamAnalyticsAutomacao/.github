@@ -41,7 +41,7 @@ Para inspiração, consulte o README de algum colega.
 
 ## 📚 Referências e Exemplos
 
-- [Modelo de README padrão](https://github.com/TeamAnalyticsAutomacao/exemplo-projeto/blob/main/README.md)  
+- [Modelo de README padrão](https://github.com/TeamAnalyticsAutomacao/Fluxo-de-caixa/blob/main/README.md)  
 - [Guia de boas práticas de Git](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
 
 ---
