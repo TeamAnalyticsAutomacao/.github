@@ -1,4 +1,4 @@
-# 🚀 Bem-vindo à TeamAnalyticsAutomacao
+# 🚀 Bem-vindo à Team Analytics Automação
 
 Este espaço reúne as diretrizes e boas práticas para garantir que nossos projetos no GitHub corporativo sejam organizados, seguros e fáceis de manter.
 
