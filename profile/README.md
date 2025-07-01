@@ -6,7 +6,7 @@ Este espaço reúne as diretrizes e boas práticas para garantir que nossos proj
 
 ## 📋 Regras Gerais para os Repositórios
 
-### 1️⃣ Todos os repositórios devem ser **privados**, sem exceção  
+### 1️⃣ Todos os repositórios devem ser **PRIVADOS**, sem exceção  
 🔒 Garantimos a segurança e confidencialidade das informações da empresa.
 
 ### 2️⃣ Sempre crie um .gitignore para evitar arquivos desnecessários  
