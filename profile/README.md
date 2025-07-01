@@ -12,7 +12,7 @@ Este espaço reúne as diretrizes e boas práticas para garantir que nossos proj
 ### 2️⃣ Sempre crie um .gitignore para evitar arquivos desnecessários  
 🚫 Jamais suba arquivos temporários, binários ou de configuração que não precisam estar no repositório.
 
-### 3️⃣ Nunca versionar dados sensíveis de clientes  
+### 3️⃣ Nunca versionar DADOS SENSÍVEIS de clientes  
 🔐 Utilize arquivos como .env ou similares para lidar com variáveis de ambiente e credenciais.
 
 ### 4️⃣ Cada projeto deve conter um README.md padronizado  
