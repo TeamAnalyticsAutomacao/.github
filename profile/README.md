@@ -56,8 +56,8 @@ Para inspiração, consulte o README de algum colega.
 - [Instalação do Git](https://git-scm.com/downloads/win)
 - [GitHub website](https://github.com/)
 - [Lista de Comandos](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
-- [Video de apoio português](https://youtu.be/pyM5QLS2h6M?si=wgT3rnhTZOgMji0X)
-- [Video de apoio inglês](https://youtu.be/lLoJHifWTRw?si=5czKWuhMs4UuuVnb)
+- [Video tutorial português](https://youtu.be/pyM5QLS2h6M?si=wgT3rnhTZOgMji0X)
+- [Video tutorial inglês](https://youtu.be/lLoJHifWTRw?si=5czKWuhMs4UuuVnb)
 
 
 
