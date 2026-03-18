@@ -11,6 +11,7 @@ Este espaço reúne as diretrizes e boas práticas para garantir que nossos proj
 
 ### 2️⃣ Sempre crie um .gitignore para evitar arquivos desnecessários  
 🚫 Jamais suba arquivos temporários, binários ou de configuração que não precisam estar no repositório.
+[ENTENDA O .GITIGNORE](https://www.youtube.com/watch?v=Bd4OQb5tKaY)
 
 ### 3️⃣ Nunca versionar DADOS SENSÍVEIS de clientes  
 🔐 Utilize arquivos como .env ou similares para lidar com variáveis de ambiente e credenciais.
@@ -22,6 +23,7 @@ Este espaço reúne as diretrizes e boas práticas para garantir que nossos proj
 - Tecnologias utilizadas
 - Contato do responsável  
 Para inspiração, consulte o README de algum colega.
+[ENTENDA O README.md](https://www.youtube.com/watch?v=Gcb60rPbnKA)
 
 ### 5️⃣ Use **branches** para desenvolvimento e revisão  
 🌿 Nunca trabalhe direto na branch `main` (ou `master`). Utilize branches específicas para features, correções e faça pull requests para revisão.
