@@ -47,7 +47,8 @@ Para inspiração, consulte o README de algum colega.
 
 ## 📚 Referências e Exemplos
 
-- [Modelo de README padrão](https://github.com/TeamAnalyticsAutomacao/Fluxo-de-caixa/blob/main/README.md)  
+- [Modelo de README padrão](https://github.com/TeamAnalyticsAutomacao/Fluxo-de-caixa/blob/main/README.md)
+- [Modelo de README padrão BI](https://github.com/TeamAnalyticsAutomacao/BI_fluxo_de_caixa/blob/main/README.md)  
 - [Guia de boas práticas de Git](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
 
 ---
@@ -58,6 +59,7 @@ Para inspiração, consulte o README de algum colega.
 - [Lista de Comandos](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 - [Video tutorial português](https://youtu.be/pyM5QLS2h6M?si=wgT3rnhTZOgMji0X)
 - [Video tutorial inglês](https://youtu.be/lLoJHifWTRw?si=5czKWuhMs4UuuVnb)
+- [Video tutorial GITHUB DESKTOP](https://www.youtube.com/watch?v=rTbSsVFeeI0&t=330s)
 
 
 
